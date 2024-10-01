@@ -26,6 +26,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="70" alt="xd logo"  />
 </div>
 
+
+###
+
+<h3 align="center">Trophies</h3>
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpatzan2&label=Profile%20views&color=0e75b6&style=flat" alt="dpatzan2" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpatzan2" alt="dpatzan2" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+
 ###
 
 <h3 align="center">Social</h3>
@@ -46,9 +61,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=dpatzan2019173" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&username=dpatzan2019173" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpatzan2&show_icons=true&locale=en&layout=compact" alt="dpatzan2" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpatzan2&show_icons=true&locale=en" alt="dpatzan2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpatzan2&" alt="dpatzan2" /></p>
 ###
